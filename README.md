@@ -12,3 +12,7 @@ The whole project was created during my DataScience workshop course and is hoste
 
 - https://www.kaggle.com/code/stavcohen/petfinder-eda-xgbst-adabst-cnn-bert-insights
 
+
+You can find the Insights PDF that I created and sent to animal shelters across the country here:
+
+https://drive.google.com/file/d/1Ljp4Vg8qjqDdkzfjTGn9FnpyR3Efns6d/view
